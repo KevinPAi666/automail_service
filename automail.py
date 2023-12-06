@@ -8,7 +8,7 @@ html_card_complete = "./automail/automail_complete.html"
 # when setting finished, shouldn't modify again.
 myAccount = "XXX" #enter gmail account who sent in here
 myPassword = "XXX" #enter gmail application password who sent in here
-json_file = "./XXX" #XXX = your json file name
+json_file = "./automail/XXX.json" #XXX = your json file name
 
 # customize course setting
 ### test form  -> enter your sheet link for convenience
