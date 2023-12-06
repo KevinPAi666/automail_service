@@ -1,0 +1,5 @@
+gunicorn
+Django
+openpyxl
+gspread
+requests_oauthlib

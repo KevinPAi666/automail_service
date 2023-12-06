@@ -1,0 +1,1 @@
+gunicorn Django.myproject.wsgi:application
